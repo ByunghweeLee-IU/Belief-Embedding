@@ -1,4 +1,4 @@
 # Belief-Embedding
 Project on belief embedding
 
-source files and dataset included
+source codes and dataset used in the project  will be included in this repository
