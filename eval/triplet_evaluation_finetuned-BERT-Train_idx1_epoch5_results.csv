@@ -1,0 +1,2 @@
+epoch,steps,accuracy_cosinus,accuracy_manhattan,accuracy_euclidean
+-1,-1,0.98431,0.98184,0.98465
