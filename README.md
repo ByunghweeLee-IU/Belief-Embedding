@@ -4,5 +4,5 @@ This project contains the source codes and the dataset used to generate results 
 
 
 ## Notes
-fine-tuned language model is not included due to the size. 
-One can obtain the same fine-tuned Sentence-BERT model using our dataset with the code src/Finetuning-SBERT_triplet_loss_revised-(roberta-base).py. 
+This repository includes the initial processed dataset, which is essential for generating other results. 
+Users can generate further necessary datasets, pre-trained models, and other results using the source codes in this repository.  
