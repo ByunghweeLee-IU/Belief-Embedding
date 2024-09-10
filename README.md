@@ -9,3 +9,30 @@ Beliefs serve as the foundation for human cognition and decision-making. They gu
 ## Notes
 This repository includes the initial processed dataset, which is essential for generating other results. 
 Users can generate further necessary datasets, pre-trained models, and other results using the source codes in this repository.  
+
+## System requirements
+* **Software dependencies**:
+  * Python (version 3.x)
+  * Required libraries:
+     * `torch >= 2.2.1`
+     * `sentence-transformers >= 2.6.0` 
+     * `pandas`
+     * `numpy`
+* **Pre-trained models**:
+  * `roberta-base-nli-stsb-mean-tokens` and `bert-base-uncased` from the `sentence-transformer` package.
+* **Operating systems**:
+  * The code should run on any operating system that supports Python and the above libraries, including:
+    *  Ubuntu 20.04.6 LTS
+    *  macOS
+    *  Windows 10
+* **Versions tested on** 
+   * The following libraries need to be installed and are typically compatible with Python 3.8 or higher:
+     * `torch >= 2.2.1`
+     * `sentence-transformers >= 2.6.0`
+     * `pandas >= 2.2.2`
+     * `numpy >= 1.24.3`
+     * `seaborn >= 0.13`
+     * `matplotlib >= 3.8`
+* **Hardware requirements**
+  * A GPU is recommended for faster training (CUDA-capable NVIDIA GPU recommended).
+  * GPU usage: NVIDIA A100 80GB PCIe
