@@ -15,9 +15,11 @@ Users can generate further necessary datasets, pre-trained models, and other res
   * Python (version 3.x)
   * Required libraries:
      * `torch >= 2.2.1`
-     * `sentence-transformers >= 2.6.0` 
+     * `sentence-transformers >= 2.6.0`
      * `pandas`
      * `numpy`
+     * `seaborn`
+     * `matplotlib`
 * **Pre-trained models**:
   * `roberta-base-nli-stsb-mean-tokens` and `bert-base-uncased` from the `sentence-transformer` package.
 * **Operating systems**:
@@ -27,12 +29,12 @@ Users can generate further necessary datasets, pre-trained models, and other res
     *  Windows 10
 * **Versions tested on** 
    * The following libraries need to be installed and are typically compatible with Python 3.8 or higher:
-     * `torch >= 2.2.1`
-     * `sentence-transformers >= 2.6.0`
-     * `pandas >= 2.2.2`
-     * `numpy >= 1.24.3`
-     * `seaborn >= 0.13`
-     * `matplotlib >= 3.8`
+     * `torch = 2.2.1`
+     * `sentence-transformers = 2.6.0`
+     * `pandas = 2.2.2`
+     * `numpy = 1.24.3`
+     * `seaborn = 0.13`
+     * `matplotlib = 3.8`
 * **Hardware requirements**
   * A GPU is recommended for faster training (CUDA-capable NVIDIA GPU recommended).
   * GPU usage: NVIDIA A100 80GB PCIe
