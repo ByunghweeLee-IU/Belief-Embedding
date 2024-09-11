@@ -10,8 +10,7 @@ from torch.utils.data import DataLoader
 from sentence_transformers.evaluation import TripletEvaluator
 
 
-#data_index_list = [0,1,2,3,4]
-data_index_list = [4]
+data_index_list = [0,1,2,3,4]
 epochs = [1,2,3,4,5]
 
 for data_index in data_index_list:
