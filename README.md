@@ -49,3 +49,7 @@ jupyter notebook
 
 Select `belief` kernel in the jupyter Notebook.
 Open `Main_result.ipynb` to view the aggregated analysis process.
+
+## Estimated Time:
+Fine-tuning a language model (5-fold data for 5 epochs) is the most time-consuming task. Fine-tuning BERT/S-BERT takes approximately 12.5 hours on a single GPU (NVIDIA A100 80GB PCIe). Since we use two models, BERT and S-BERT, the total fine-tuning time is roughly 25 hours.
+Triplet loss evaluation for each model takes around 2.5 hours.
