@@ -7,3 +7,5 @@ numpy
 matplotlib
 scikit-learn
 scipy
+ipykernel
+jupyter
