@@ -47,4 +47,5 @@ python -m ipykernel install --name belief
 jupyter notebook
 ```
 
-Select `belief` kernel in the jupyter notebook.
+Select `belief` kernel in the jupyter Notebook.
+Open `Main_result.ipynb` to view the aggregated analysis process.
