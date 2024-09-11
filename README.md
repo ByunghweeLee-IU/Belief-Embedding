@@ -34,6 +34,7 @@ To enable gpu usage, install gpu version `torch` package from [PyTorch](https://
      * `sentence-transformers = 2.6.0`
      * `pandas = 2.2.2`
      * `numpy = 1.24.3`
+     * See `requirements.txt` for full list of necessary libraries. 
      
 * **Hardware requirements**
   * A GPU is recommended for faster training 
