@@ -22,8 +22,6 @@ pip install -r requirements.txt
 python -m ipykernel install --name belief
 ```
 
-To enable gpu usage, install gpu version `torch` package from [PyTorch](https://pytorch.org).  
-
 ## System requirements
 * **Software dependencies**:
   * Supported platforms: MacOS and Ubuntu (with Python 3.8)
