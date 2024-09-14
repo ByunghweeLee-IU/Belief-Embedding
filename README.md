@@ -37,11 +37,9 @@ python -m ipykernel install --name belief
 
 * **Quickstart**
 
-```bash
-jupyter notebook
-```
-* Select `belief` kernel in the jupyter Notebook.
-* Open `Main_result.ipynb` to view the aggregated analysis process.
+  * In terminal, run ```jupyter notebook```
+  * Select `belief` kernel in the jupyter Notebook.
+  * Open `Main_result.ipynb` 
 
 * **Hardware requirements**
   * A GPU is recommended for faster training 
