@@ -33,7 +33,16 @@ python -m ipykernel install --name belief
      * `pandas = 2.2.2`
      * `numpy = 1.24.3`
      * See `requirements.txt` for full list of necessary libraries. 
-     
+
+
+* **Quickstart**
+
+```bash
+jupyter notebook
+```
+* Select `belief` kernel in the jupyter Notebook.
+* Open `Main_result.ipynb` to view the aggregated analysis process.
+
 * **Hardware requirements**
   * A GPU is recommended for faster training 
   * Our analysis was run with GPU NVIDIA A100 80GB PCIe
@@ -41,14 +50,7 @@ python -m ipykernel install --name belief
 * **License**
   * This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Quickstart
 
-```bash
-jupyter notebook
-```
-
-Select `belief` kernel in the jupyter Notebook.
-Open `Main_result.ipynb` to view the aggregated analysis process.
 
 ## Estimated Time:
 Fine-tuning a language model (5-fold data for 5 epochs) is the most time-consuming task. Fine-tuning BERT/S-BERT takes approximately 12.5 hours on a single GPU (NVIDIA A100 80GB PCIe). Since we use two models, BERT and S-BERT, the total fine-tuning time is roughly 25 hours.
