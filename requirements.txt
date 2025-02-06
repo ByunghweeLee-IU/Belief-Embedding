@@ -11,4 +11,3 @@ ipykernel
 jupyter
 datasets
 accelerate
-zipfile
