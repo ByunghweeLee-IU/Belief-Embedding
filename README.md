@@ -7,7 +7,8 @@ Authors: Byunghwee Lee<sup>1</sup>, Rachith Aiyappa<sup>1</sup>, Yong-Yeol Ahn<s
 <sup>1</sup> <sub>Center for Complex Networks and Systems Research, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA, 47408</sub>
 
 ## Introduction
-This repository contains the source code for the analysis. Users can process datasets, fine-tune pre-trained models, and generate main results using these codes.
+ * This repository provides the source code necessary for reproducing the presented in the paper.
+ * `src/Main_results.ipynb` contains a detailed implementation of key experimental results. 
 
 ## Installation
 
