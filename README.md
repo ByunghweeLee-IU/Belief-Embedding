@@ -8,8 +8,8 @@ Authors: Byunghwee Lee<sup>1</sup>, Rachith Aiyappa<sup>1</sup>, Yong-Yeol Ahn<s
 
 ## Introduction
  * This repository provides the source code necessary for reproducing the presented in the paper.
- * `src/Main_results.ipynb` contains a detailed implementation of key experimental results. 
- * The original Debate dataset used in this study can be downloaded from [Figshare](https://figshare.com/articles/dataset/Dataset_for_Neural_embedding_of_beliefs_reveals_the_role_of_relative_dissonance_in_human_decision-making_/28327019).  
+ * The implementation of key experimental results can be found in `src/Main_results.ipynb`.
+ * The original Debate.org dataset used in this study was obtained from [https://esdurmus.github.io/ddo.html](https://esdurmus.github.io/ddo.html). the dataset can be also accessed from [Figshare](https://figshare.com/articles/dataset/Dataset_for_Neural_embedding_of_beliefs_reveals_the_role_of_relative_dissonance_in_human_decision-making_/28327019).
 
 ## Installation
 
