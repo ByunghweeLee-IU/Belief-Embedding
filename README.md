@@ -1,7 +1,10 @@
 # Belief embedding project 
 
-This repository contains the source code and dataset used in the study  
-**[Neural embedding of beliefs reveals the role of relative dissonance in human decision-making](https://arxiv.org/abs/2408.07237)** (https://arxiv.org/abs/2408.07237).
+This repository contains the source code and dataset used in the study:
+
+- Lee et al. **[A semantic embedding space based on large language models for modelling human beliefs](https://www.nature.com/articles/s41562-025-02228-z)**, *Nature Human Behaviour* (2025) (https://doi.org/10.1038/s41562-025-02228-z). 
+
+- arXiv preprint also available at: [https://arxiv.org/abs/2408.07237](https://arxiv.org/abs/2408.07237)
 
 **Authors**:  
 Byunghwee Lee<sup>1</sup>, Rachith Aiyappa<sup>1</sup>, Yong-Yeol Ahn<sup>1</sup>, Haewoon Kwak<sup>1</sup>, Jisun An<sup>1</sup>  
